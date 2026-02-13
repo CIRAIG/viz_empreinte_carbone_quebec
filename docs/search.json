@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "nous.html",
+    "href": "nous.html",
+    "title": "À propos de l’étude",
+    "section": "",
+    "text": "L’empreinte carbone présentée sur ce site est calculée à partir d’un modèle économique appelé entrées-sorties étendu à l’environnement (en anglais Environmentally-Extended Input-Output) (Agez 2024). Ce type de modèle permet de relier les dépenses de consommation aux émissions de gaz à effet de serre générées tout au long des chaînes de production, au Québec, ailleurs au Canada et à l’international (Statistique Canada 2019; Agez 2024).\nQue signifie « empreinte carbone basée sur la consommation » ?\nContrairement à une approche territoriale, qui comptabilise uniquement les émissions produites sur un territoire donné, l’approche basée sur la consommation attribue les émissions aux biens et services consommés par les résidents, peu importe où ces émissions ont eu lieu (Patouillard et al. 2026).\nPar exemple :\nAinsi, l’empreinte carbone reflète les choix de consommation plutôt que le seul lieu de production.\nComment les émissions par secteur sont-elles estimées ?\nLe calcul repose sur :\nLes émissions sont ensuite regroupées selon de grandes catégories de consommation telles que :\nLes résultats peuvent être présentés :"
+  },
+  {
+    "objectID": "nous.html#contributeurs",
+    "href": "nous.html#contributeurs",
+    "title": "À propos de l’étude",
+    "section": "Contributeurs",
+    "text": "Contributeurs\n\n\n\nPersonne\nContribution\n\n\n\n\nMaxime Agez\nCalcul de l'empreinte carbone basée sur la consommation par habitant en fonction du niveau de revenu (modélisation Input-Output) et rédaction d'article scientifique\n\n\nLaure Patouillard\nRédaction d'article scientifique\n\n\nAnne de Bortoli\nRédaction d'article scientifique\n\n\nNathalie Berthélemy\nCalcul de l'empreinte carbone basée sur la consommation par ménage et traitement des données de revenu\n\n\nIvan Viveros Santos\nCalcul de l'empreinte carbone basée sur la consommation par ménage et visualisation des résultats\n\n\nCécile Bulle\nConception, méthodologie et supervision"
+  },
+  {
+    "objectID": "nous.html#remerciements",
+    "href": "nous.html#remerciements",
+    "title": "À propos de l’étude",
+    "section": "Remerciements",
+    "text": "Remerciements\nCe travail fait partie du projet « DIALOGUES Inclusifs vers un concept opérationnel de citoyenneté énergétique pour soutenir l’Union de l’Énergie » (“Inclusive DIALOGUES towards an operational concept of energy citizenship to support the Energy Union”) et a été financé par les subventions suivantes:\n\n\nFonds Nouvelles frontières en recherche - Global du Conseil de recherches en sciences humaines sous le numéro de subvention NFRFG-2020-00448 ;\n\n\nsoutien du Fonds de Recherche du Québec (FRQ) au NFRF – Horizon 2020 sous le numéro de subvention 2022-FNFR-310334 ;\n\n\nprogramme PSO Programme International du Ministère de l’Économie, de l’Innovation et de l’Énergie du Québec (MEI) sous le numéro de subvention 21-22-PSOv2c-51973.\n\n\nLes auteurs tiennent à remercier également le financement LEVIER du CIRODD."
+  },
+  {
+    "objectID": "nous.html#sources",
+    "href": "nous.html#sources",
+    "title": "À propos de l’étude",
+    "section": "Sources",
+    "text": "Sources\n\n\nAgez, Maxime. 2024. OpenIO-Canada v2.9. https://github.com/CIRAIG/OpenIO-Canada.\n\n\nBulle, Cécile, Manuele Margni, Laure Patouillard, Anne-Marie Boulay, Guillaume Bourgault, Vincent De Bruille, Viêt Cao, et al. 2019. « IMPACT World+: a globally regionalized life cycle impact assessment method ». The International Journal of Life Cycle Assessment 24 (9): 1653‑74. https://doi.org/10.1007/s11367-019-01583-0.\n\n\nPatouillard, Laure, Maxime Agez, Anne de Bortoli, et Cécile Bulle. 2026. « Consumption-based carbon footprint of Canadians: exploring provinces’ variability based on OpenIO-Canada, a regionalized input-output table with capital endogenization ». Manuscript in preparation.\n\n\nStatistique Canada. 2019. « Enquête sur les dépenses des ménages, 2019 ». https://www150.statcan.gc.ca/n1/daily-quotidien/210122/dq210122b-fra.htm."
+  },
+  {
+    "objectID": "empreinte_carbone_menage.html",
+    "href": "empreinte_carbone_menage.html",
+    "title": "Empreinte Carbone des Ménages au Québec",
+    "section": "",
+    "text": "Cette page permet d’explorer l’empreinte carbone moyenne d’un ménage :\n\n\n\n\npar région administrative ;\npar grandes catégories de consommation ;\navec un zoom détaillé pour la région de Montréal.\nL’empreinte carbone d’un ménage correspond à l’ensemble des émissions de gaz à effet de serre (GES) associées à sa consommation.\nElle inclut : - les émissions directes (par exemple le carburant utilisé pour un véhicule ou le chauffage du logement) ; - les émissions indirectes générées tout au long des chaînes de production des biens et services consommés.\nCette page permet d’explorer comment cette empreinte varie d’une région administrative à l’autre au Québec."
+  },
+  {
+    "objectID": "empreinte_carbone_menage.html#empreinte-des-ménages-par-région-administrative",
+    "href": "empreinte_carbone_menage.html#empreinte-des-ménages-par-région-administrative",
+    "title": "Empreinte Carbone des Ménages au Québec",
+    "section": "Empreinte des ménages par Région administrative",
+    "text": "Empreinte des ménages par Région administrative\nL’empreinte régionale est estimée à partir :\n\nde l’empreinte carbone par personne ;\nde la répartition des ménages par quintile de revenu dans chaque région ;\nde la taille moyenne des ménages selon le revenu.\n\nCette approche permet de tenir compte des différences de structure socio-économique entre les régions.\n\n\n\n\n\n\nComment utiliser la carte ?\n\n\n\n\n\nmouse Survolez une région pour afficher l’empreinte carbone moyenne d’un ménage.\nmouse Faites glisser la carte pour vous déplacer.\nmouse Utilisez la molette pour zoomer.\n\n\n\narrow_circle_down Carte interactive ci-dessous :\n\nOn observe des variations importantes entre les régions, liées notamment aux différences de revenus, de modes de transport et d’accès aux services."
+  },
+  {
+    "objectID": "empreinte_carbone_menage.html#contribution-de-différents-volets-de-consommation-à-lempreinte-carbone-dun-ménage",
+    "href": "empreinte_carbone_menage.html#contribution-de-différents-volets-de-consommation-à-lempreinte-carbone-dun-ménage",
+    "title": "Empreinte Carbone des Ménages au Québec",
+    "section": "Contribution de différents volets de consommation à l’empreinte carbone d’un ménage",
+    "text": "Contribution de différents volets de consommation à l’empreinte carbone d’un ménage\nLa figure ci-dessous illustre la contribution des différentes catégories de consommation à l’empreinte carbone moyenne d’un logement dans chaque région administrative du Québec.\nExaminez la figure et essayez de répondre aux questions suivantes.\n\n\n\n\n\n\nQuestions\n\n\n\n\nQuelle est l’empreinte carbone moyenne d’un ménage pour les services de santé et de soins personnels ?\nQuelle région affiche l’empreinte carbone la plus élevée pour la catégorie logement ?\n\n\n\n\n\n\n\n\n\nComment lire ce graphique ?\n\n\n\n\n\nmouse Survolez les barres pour afficher les valeurs exactes.\nmouse Cliquez sur les éléments de la légende pour afficher ou masquer une catégorie."
+  },
+  {
+    "objectID": "empreinte_carbone_menage.html#quelle-est-lempreinte-carbone-moyenne-dun-ménage-à-montréal",
+    "href": "empreinte_carbone_menage.html#quelle-est-lempreinte-carbone-moyenne-dun-ménage-à-montréal",
+    "title": "Empreinte Carbone des Ménages au Québec",
+    "section": "Quelle est l’empreinte carbone moyenne d’un ménage à Montréal?",
+    "text": "Quelle est l’empreinte carbone moyenne d’un ménage à Montréal?\nLa figure suivante permet d’explorer en détail la composition de l’empreinte carbone moyenne d’un ménage à Montréal.\nChaque rectangle représente une catégorie de consommation, dont la taille correspond à sa contribution aux émissions totales.\n\n\n\n\n\n\nQuestions\n\n\n\n\nQuelle est l’empreinte carbone moyenne d’un ménage liée à l’entretien et à la réparation des véhicules ?\nQuelle est l’empreinte carbone moyenne d’un ménage pour les services de restauration ?\nQuelle est l’empreinte carbone moyenne d’un ménage associée à l’achat de vêtements ?\n\n\n\n\n\n\n\n\n\nComment naviguer dans cette figure ?\n\n\n\n\n\nmouse Cliquez sur une catégorie pour explorer ses sous-catégories.\nmouse Cliquez sur “ECBC” pour revenir au niveau précédent.\nmouse Survolez les cases pour afficher les valeurs exactes."
+  },
+  {
+    "objectID": "empreinte_carbone_habitant.html",
+    "href": "empreinte_carbone_habitant.html",
+    "title": "Empreinte Carbone par Habitant au Québec",
+    "section": "",
+    "text": "Cette page permet d’explorer l’empreinte carbone moyenne par personne :\n\n\n\n\nselon le revenu\n\nselon l’âge\n\net par grandes catégories de consommation.\nPour analyser l’effet du revenu, la population est divisée en cinq groupes de revenu égaux appelés quintiles. Chaque quintile représente 20 % des ménages, classés du revenu le plus faible au revenu le plus élevé. Cette classification est basée sur les données de l’Enquête sur les dépenses des ménages de Statistique Canada (Statistique Canada 2019).\nLes quintiles de revenu sont définis par ménage et non par individu. Cela signifie que les groupes correspondent aux revenus des ménages, même si les résultats présentés ici sont exprimés par personne.\narrow_circle_down La figure ci-dessous montre donc également la taille moyenne des ménages pour chaque quintile de revenu.\nLes fourchettes de revenu n’ont pas été ajustées en fonction du nombre de personnes par ménage, afin de conserver la cohérence avec les données sources (le nombre de personnes économiquement actives n’étant pas disponible)."
+  },
+  {
+    "objectID": "empreinte_carbone_habitant.html#quelle-est-lempreinte-carbone-dun-habitant-du-québec-selon-le-revenu",
+    "href": "empreinte_carbone_habitant.html#quelle-est-lempreinte-carbone-dun-habitant-du-québec-selon-le-revenu",
+    "title": "Empreinte Carbone par Habitant au Québec",
+    "section": "Quelle est l’empreinte carbone d’un habitant du Québec selon le revenu ?",
+    "text": "Quelle est l’empreinte carbone d’un habitant du Québec selon le revenu ?\nLa figure ci-dessous présente l’empreinte carbone totale (en tonnes CO2eq par personne et par an) des habitants, classée par quintiles de revenu (du quintile supérieur au quintile inférieur) pour les deux catégories principales de consommation :\n\nla consommation individuelle des ménages\nles services gouvernementaux, services sans but lucratif et inventaires.\n\n\n\n\n\n\n\nComment lire ce graphique ?\n\n\n\nmouse Survolez les barres pour afficher les valeurs exactes.\nmouse Cliquez sur les éléments de la légende pour afficher ou masquer une catégorie.\n\n\narrow_circle_down Graphique interactif :\n\nLa figure suivante détaille la catégorie Consommation individuelle des ménages, en raison de sa contribution significative à l’empreinte carbone totale d’un habitant du Québec.\n\n\n\n\n\n\nComment lire ce graphique ?\n\n\n\n\n\nmouse Survolez les barres pour afficher les valeurs exactes.\nmouse Cliquez sur les éléments de la légende pour afficher ou masquer une catégorie.\n\n\n\nLes résultats montrent que trois postes dominent l’empreinte carbone individuelle :\n\ndirections_railway le transport\nnight_shelter le logement\ndinner_dining la nourriture\n\nCes catégories expliquent la majeure partie des différences observées entre les niveaux de revenu.\narrow_circle_down Graphique interactif :"
+  },
+  {
+    "objectID": "empreinte_carbone_habitant.html#quelles-sont-les-variations-de-lempreinte-carbone-par-habitant-en-fonction-de-lâge",
+    "href": "empreinte_carbone_habitant.html#quelles-sont-les-variations-de-lempreinte-carbone-par-habitant-en-fonction-de-lâge",
+    "title": "Empreinte Carbone par Habitant au Québec",
+    "section": "Quelles sont les variations de l’empreinte carbone par habitant en fonction de l’âge ?",
+    "text": "Quelles sont les variations de l’empreinte carbone par habitant en fonction de l’âge ?\nLes habitudes de consommation évoluent au cours de la vie. Les besoins en mobilité ou en loisirs changent avec l’âge, ce qui influence l’empreinte carbone par personne.\nLe graphique interactif ci-dessous permet d’explorer ces variations.\n\n\n\n\n\n\nQuestions\n\n\n\n\nPourquoi la tranche d’âge 55 à 64 ans présente-t-elle une empreinte carbone plus élevée comparée à d’autres tranches d’âge ?\n\nQuelles différences peut-on observer à partir de la figure ci-dessous ?\n\nQuelle tranche d’âge présente l’empreinte carbone la plus élevée pour la catégorie loisirs et culture ?\n\n\n\n\n\n\n\n\n\nComment lire ce graphique ?\n\n\n\n\n\nmouse Survolez les barres pour afficher les valeurs exactes.\nmouse Cliquez sur les éléments de la légende pour afficher ou masquer une catégorie.\n\n\n\narrow_circle_down Graphique interactif :"
+  },
+  {
+    "objectID": "index.html#pourquoi-mesurer-lempreinte-carbone",
+    "href": "index.html#pourquoi-mesurer-lempreinte-carbone",
+    "title": "Quelle est l’empreinte carbone des Québécois ?",
+    "section": "Pourquoi mesurer l’empreinte carbone ?",
+    "text": "Pourquoi mesurer l’empreinte carbone ?\nLes changements climatiques sont causés par l’accumulation de gaz à effet de serre (GES) dans l’atmosphère, notamment le dioxyde de carbone (CO2), le méthane (CH4) et le protoxyde d’azote (N2O). Ces gaz, émis principalement par les activités humaines - transport, production d’énergie, agriculture, industrie, construction - retiennent la chaleur dans l’atmosphère et modifient l’équilibre climatique de la planète.\nLes conséquences sont déjà visibles : augmentation des températures moyennes, événements météorologiques extrêmes plus fréquents, feux de forêt, inondations et perturbations des écosystèmes.\nPour agir efficacement, il est essentiel de comprendre d’où proviennent les émissions et comment nos modes de vie y contribuent."
+  },
+  {
+    "objectID": "index.html#une-approche-basée-sur-la-consommation",
+    "href": "index.html#une-approche-basée-sur-la-consommation",
+    "title": "Quelle est l’empreinte carbone des Québécois ?",
+    "section": "Une approche basée sur la consommation",
+    "text": "Une approche basée sur la consommation\nCe site présente l’empreinte carbone associée à la consommation des résidents et des ménages du Québec.\nContrairement à une approche dite territoriale, qui comptabilise uniquement les émissions produites sur le territoire québécois, l’approche basée sur la consommation tient compte de toutes les émissions générées pour produire les biens et services que nous utilisons, qu’elles aient lieu au Québec, ailleurs au Canada ou à l’international (Patouillard et al. 2026).\nCette perspective permet de rendre visibles des émissions souvent peu perceptibles, par exemple :\n\ncelles liées à la fabrication d’un véhicule importé ;\ncelles associées à la production d’aliments consommés au Québec ;\ncelles nécessaires à la construction d’infrastructures ou à la prestation de services publics ;\ncelles générées dans les chaînes d’approvisionnement internationales.\n\nEn d’autres termes, cette approche relie les émissions aux choix de consommation, plutôt qu’au seul lieu de production.\nLes résultats reposent sur un modèle économique détaillé reliant les dépenses de consommation aux émissions générées tout au long des chaînes de production. Pour en savoir plus sur les données utilisées et la méthodologie, consultez la section Méthodologie."
+  },
+  {
+    "objectID": "index.html#quelles-catégories-de-consommation-sont-incluses",
+    "href": "index.html#quelles-catégories-de-consommation-sont-incluses",
+    "title": "Quelle est l’empreinte carbone des Québécois ?",
+    "section": "Quelles catégories de consommation sont incluses ?",
+    "text": "Quelles catégories de consommation sont incluses ?\nL’empreinte carbone présentée sur ce site couvre l’ensemble des émissions associées aux biens et services consommés au Québec.\nDeux grandes catégories sont prises en compte (Agez 2024; Patouillard et al. 2026) :\n\nLa consommation individuelle des ménages\nIl s’agit des dépenses effectuées directement par les ménages pour répondre à leurs besoins quotidiens. Cela inclut notamment :\ndirections_railway Transport (véhicules, carburant, transport collectif, voyages)\nnight_shelter Logement (chauffage, électricité, entretien, construction)\ndinner_dining Nourriture (production agricole, transformation, transport des aliments)\ntoys_and_games Loisirs et culture (activités culturelles, équipements, divertissement)\napparel Vêtements et effets personnels\nhome_health Santé et soins personnels\nschool Éducation et services sociaux\nheart_check Services financiers et assurances\nmarkunread_mailbox Communications\n\n\nLes services gouvernementaux, services sans but lucratif et variations d’inventaires\nCette catégorie regroupe les émissions associées aux services fournis collectivement, notamment :\n\nles infrastructures publiques (routes, écoles, hôpitaux) ;\nles services administratifs et institutionnels ;\nles investissements publics (capital) ;\nles dépenses des organismes sans but lucratif ;\nles variations d’inventaires.\n\nDans l’approche utilisée ici (principe de résidence), les émissions liées aux services gouvernementaux et aux organismes sans but lucratif sont réparties entre les résidents du Québec. Elles font donc partie intégrante de l’empreinte carbone des Québécois. Ces émissions reflètent les services collectifs qui soutiennent notre mode de vie, au-delà des seules dépenses individuelles des ménages."
+  },
+  {
+    "objectID": "index.html#comment-naviguer-dans-cet-outil",
+    "href": "index.html#comment-naviguer-dans-cet-outil",
+    "title": "Quelle est l’empreinte carbone des Québécois ?",
+    "section": "Comment naviguer dans cet outil ?",
+    "text": "Comment naviguer dans cet outil ?\n\n\n\n\n\n\nLes pages suivantes présentent des graphiques interactifs et des cartes.\n\n\n\nmouse Survolez les figures pour afficher les valeurs détaillées.\nmouse Cliquez sur les légendes pour afficher ou masquer certaines catégories.\nmouse Utilisez les boutons interactifs lorsque disponibles pour explorer les résultats.\nL’objectif est de vous permettre d’explorer les résultats selon votre profil, votre région ou votre tranche d’âge.\n\n\n\n Explorer les résultats"
+  }
+]
