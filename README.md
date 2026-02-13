@@ -1,7 +1,7 @@
 # viz_empreinte_carbone_quebec
 Interactive website exploring the carbon footprint of Quebecers using a consumption-based approach (by person, household, region, and age group).
 
-**Please follow** [this link]([https://ciraig.github.io/viz_empreinte_carbone_quebec/nous.html](https://ciraig.github.io/viz_empreinte_carbone_quebec/)).
+**Please follow** [this link](https://ciraig.github.io/viz_empreinte_carbone_quebec/).
 
 ## Quelle est l’empreinte carbone des Québécois ?
 
